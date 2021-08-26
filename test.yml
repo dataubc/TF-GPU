@@ -1,0 +1,21 @@
+name: btcgpu
+ 
+dependencies:
+    - python=3.6.9
+    - pip>=19.0
+    - tensorflow-gpu=2.1
+    - ipykernel
+    - matplotlib==3.2.1
+     
+
+    - pip:
+        - tensorflow-gpu==2.3.1
+        - pandas==0.22
+        - nltk==3.6.2
+        - scikit-learn
+        - scipy
+        - matplotlib==3.2.1
+        - azureml-defaults
+        - azureml-sdk
+
+       
