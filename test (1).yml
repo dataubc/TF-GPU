@@ -1,0 +1,19 @@
+name: btc
+ 
+dependencies:
+    - python=3.6.9
+    - pip>=19.0
+    - ipykernel
+    - tensorflow-gpu=2.1
+     
+
+    - pip:
+        - pandas==0.22
+        - nltk==3.6.2
+        - scikit-learn
+        - scipy
+        - matplotlib==3.2.1
+        - azureml-defaults
+        - azureml-sdk
+
+       
